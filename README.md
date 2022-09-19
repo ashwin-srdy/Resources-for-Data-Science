@@ -6,5 +6,7 @@ Have fun exploring!
 I hope you’ll find this PDF helpful ;)
 
 Checkout the PDF uploaded.
+
 Star this repository if you like it :)
+
 I'll be updating this repo frequently so stay tuned!
