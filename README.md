@@ -14,25 +14,32 @@ I'll be updating this repo frequently so stay tuned!
 
 ░-░>░ YOUTUBE CHANNELS:
 1. Krish Naik
+
 a. Complete ML playlist: 
 https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
 b. Complete python playlist:
 https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+
 2. Nicholas Renotte
 (preferable for projects, DIFFICULTY: moderate, advanced)
+
 3. sentdex
 (Funky stuff, fun way to learn)
+
 4. Edureka
 (preferable for learning, building projects with simple algorithms. 
 DIFFICULTY: easy,moderate,advanced)
+
 a. ML in python full course
 i. https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn
+
 5. Murtaza’s workshop
 (preferable for Computer vision/AI/Robotics projects )
 
 
 ░-░>░ COURSES:
 1. Any specialisation course by IBM on coursera/ EdX
+
 a. https://www.edx.org/school/ibm
 b. https://www.coursera.org/professional-certificates/ibm-datascience
 Few of the following courses may be old and not up to date
