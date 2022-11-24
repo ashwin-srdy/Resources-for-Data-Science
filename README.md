@@ -15,11 +15,9 @@ I'll be updating this repo frequently so stay tuned!
 ░-░>░ YOUTUBE CHANNELS:
 1. Krish Naik
 a. Complete ML playlist: 
-https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJk
-n3wWQxZkmTXGwe
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
 b. Complete python playlist:
-https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4b
-DlVYsncUNvwUBB
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
 2. Nicholas Renotte
 (preferable for projects, DIFFICULTY: moderate, advanced)
 3. sentdex
@@ -28,8 +26,7 @@ DlVYsncUNvwUBB
 (preferable for learning, building projects with simple algorithms. 
 DIFFICULTY: easy,moderate,advanced)
 a. ML in python full course
-i. https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL
-9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn
+i. https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn
 5. Murtaza’s workshop
 (preferable for Computer vision/AI/Robotics projects )
 
@@ -39,17 +36,10 @@ i. https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL
 a. https://www.edx.org/school/ibm
 b. https://www.coursera.org/professional-certificates/ibm-datascience
 Few of the following courses may be old and not up to date
-2. https://www.coursera.org/learn/machinelearning?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V8
-0-7xjQgaFkECObgnLspivGug&siteID=JVFxdTr9V80-
-7xjQgaFkECObgnLspivGug&utm_content=10&utm_medium=partners&u
-tm_source=linkshare&utm_campaign=JVFxdTr9V80
-3. https://www.udemy.com/course/machine-learning-onehour/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-
-x12TBRGhoDeaFsFyWlgE2w&LSNPUBID=JVFxdTr9V80&utm_source=affcampaign&utm_medium=udemyads
-4. https://www.udemy.com/course/must-know-in-machinelearning/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V8
-0-
-_in8cmke4Xi4RDyq.DmG9A&LSNPUBID=JVFxdTr9V80&utm_source=affcampaign&utm_medium=udemyads
-5. https://www.udemy.com/course/machine-learning-linear-regressionabsolutefundamentals/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxd
-Tr9V80-
+2. https://www.coursera.org/learn/machinelearning?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-7xjQgaFkECObgnLspivGug&siteID=JVFxdTr9V80-7xjQgaFkECObgnLspivGug&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80
+3. https://www.udemy.com/course/machine-learning-onehour/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-x12TBRGhoDeaFsFyWlgE2w&LSNPUBID=JVFxdTr9V80&utm_source=affcampaign&utm_medium=udemyads
+4. https://www.udemy.com/course/must-know-in-machinelearning/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-_in8cmke4Xi4RDyq.DmG9A&LSNPUBID=JVFxdTr9V80&utm_source=affcampaign&utm_medium=udemyads
+5. https://www.udemy.com/course/machine-learning-linear-regressionabsolutefundamentals/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-
 gvRM_TLEPnku4PsI5YSmhg&LSNPUBID=JVFxdTr9V80&utm_source=affcampaign&utm_medium=udemyads
 6. https://www.freecodecamp.org/learn/machine-learning-with-python/
 
